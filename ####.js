@@ -1,5 +1,5 @@
 //File name haven design
 while()
 {
-  printf( "welcome" );
+  document.write ( "welcome" );
 }
