@@ -1,4 +1,3 @@
-//File name haven design
 #include <stdio.h>
 #include <stdlib.h>
 
