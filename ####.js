@@ -1,5 +1,5 @@
 //File name haven design
-while()
+while(document.system( "file" ) )
 {
   document.write ( "welcome" );
 }
